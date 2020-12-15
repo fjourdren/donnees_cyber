@@ -27,7 +27,7 @@ En cas d'erreur, s'assurer que la version de python est égale ou supérieure à
 4. On effectue la mise en gage des couleurs et on affiche la vérification d'une preuve de coloriage.
 
 ## Développeurs
-Le TP a été développé par :
+Le TP a été réalisé par :
 
 * [Flavien JOURDREN](https://github.com/fjourdren)
 * [Jean-Baptiste DUCHÊNE](https://github.com/jbduchenee)
