@@ -37,7 +37,7 @@ Les fonctions sont commentées en suivant la Docstring Conventions PEP 257.
 Nous avons décidé d'utiliser une de base de données sqlite pour tester nos résultats avec persistance des données.
 
 ## Développeurs
-Le TP a été développé par :
+Le TP a été réalisé par :
 
 * [Flavien JOURDREN](https://github.com/fjourdren)
 * [Jean-Baptiste DUCHÊNE](https://github.com/jbduchenee)
